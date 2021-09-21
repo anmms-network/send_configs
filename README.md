@@ -19,7 +19,7 @@ ________________________
 
 This code requires Python 3 and has been tested with Python 3.8.8.
 The following libraries and modules are required to be installed in the virtual environment:
- - netmiiko
+ - netmiko
  - time
  - getpass
 
