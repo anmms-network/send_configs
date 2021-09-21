@@ -23,8 +23,9 @@ The following libraries and modules are required to be installed in the virtual 
  - time
  - getpass
 
-git clone git@github.com:CiscoDevNet/asa-static-ip-tunnels.git
-cd asa-static-ip-tunnels/
+
+https://github.com/anmms-network/send_configs.git
+cd send_configs/
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
